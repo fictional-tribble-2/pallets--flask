@@ -1,6 +1,10 @@
 Flask
 =====
 
+.. image:: https://badges.staging.guardrails.io/fictional-tribble/pallets--flask.svg
+   :alt: GuardRails Staging badge
+   :target: https://www.staging.guardrails.io
+
 Flask is a lightweight `WSGI`_ web application framework. It is designed
 to make getting started quick and easy, with the ability to scale up to
 complex applications. It began as a simple wrapper around `Werkzeug`_
